@@ -35,7 +35,7 @@
 | Paragraph | Text |
 
 
-	```
+```
 {
   "firstName": "John",
   "lastName": "Smith",
